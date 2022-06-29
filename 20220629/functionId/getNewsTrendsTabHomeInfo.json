@@ -1,0 +1,308 @@
+{
+    "code": "0",
+    "message": "响应成功",
+    "result": {
+        "tabResult": {
+            "list": [{
+                "name": "多感官助眠",
+                "adVertId": "4901603876",
+                "adGroupId": "05910499",
+                "skuGroupId": "17182772",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/205275/12/12189/117605/616d57ceEfcbfc6bd/2491aa4a6cb72f7e.jpg",
+                "backgroundColor": "#d1d1d6",
+                "tabFilter": false
+            }, {
+                "name": "畅快开黑",
+                "adVertId": "4901603879",
+                "adGroupId": "05990370",
+                "skuGroupId": "17502957",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/216335/36/3710/127897/618a3a26E8decaaf6/6b23280b1c150d8b.jpg",
+                "backgroundColor": "#b58aa6",
+                "newsFilterFlag": "1",
+                "tabFilter": false
+            }, {
+                "name": "低卡饮食",
+                "adVertId": "4901603877",
+                "adGroupId": "05939468",
+                "skuGroupId": "17306137",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/214211/33/1962/140020/6177ade6E11ea8249/c6e5b24b6d344188.jpg",
+                "backgroundColor": "#d3d9d3",
+                "tabFilter": false
+            }, {
+                "name": "智慧家电",
+                "adVertId": "4901603878",
+                "adGroupId": "05971676",
+                "skuGroupId": "17435808",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/197851/6/15718/95191/6181f822E50973593/711cc890f0511525.jpg",
+                "backgroundColor": "#7066a0",
+                "newsFilterFlag": "1",
+                "tabFilter": false
+            }, {
+                "name": "精致露营",
+                "adVertId": "4901603870",
+                "adGroupId": "05911051",
+                "skuGroupId": "17185978",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/207201/14/5538/175128/616d58afE7427c166/ec476b7c0842a633.jpg",
+                "backgroundColor": "#6d7a33",
+                "tabFilter": false
+            }, {
+                "name": "茗茶轻养生",
+                "adVertId": "4901603871",
+                "adGroupId": "05911556",
+                "skuGroupId": "17188020",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/213140/31/947/138766/616d5930E9cd30580/034fb05e790aa064.jpg",
+                "backgroundColor": "#b4bbb1",
+                "tabFilter": false
+            }, {
+                "name": "玩色玩味",
+                "adVertId": "4901603872",
+                "adGroupId": "05912173",
+                "skuGroupId": "17204949",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/204882/18/11378/221839/616d641dE0dba0778/2dbddcef67537a07.jpg",
+                "backgroundColor": "#ca0461",
+                "tabFilter": false
+            }, {
+                "name": "全屋智能",
+                "adVertId": "4901603875",
+                "adGroupId": "05912051",
+                "skuGroupId": "17189629",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/208487/25/5853/149379/616d6ab4Ecf084ed1/e7c2f39885106f4b.jpg",
+                "backgroundColor": "#d3b086",
+                "tabFilter": false
+            }, {
+                "name": "懒人家电",
+                "adVertId": "4901603869",
+                "adGroupId": "05911142",
+                "skuGroupId": "17435744",
+                "pictureUrl": "https://m.360buyimg.com/babel/jfs/t1/212729/38/980/118449/616e37bdE4a1070d8/f4fa8cace16e0d92.jpg",
+                "backgroundColor": "#c78b61",
+                "newsFilterFlag": "1",
+                "tabFilter": false
+            }]
+        },
+        "headResult": {
+            "list": [{
+                "skuId": "10035608704373",
+                "skuName": "THE BEAST 野兽派 “野兽的花”系列植萃精油香氛车载香薰装饰 情人节礼物生日礼物女 野薄荷与迷迭香",
+                "skuImage": "https://m.360buyimg.com/mobilecms/s420x420_jfs/t1/76932/40/17314/50004/6142e5ccE0b9454fa/ee5f6b2e00aaf7cb.jpg.webp",
+                "skuTag": ["立体雕刻", "当季新品"],
+                "rankName": "助眠香薰灯新品榜",
+                "rankJumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/qPtWihKEDTcxtGgR9R736RZTuLB/index.html?contentId=672687&rankType=8&renderpage=rank",
+                "hasSoaringLogo": false,
+                "rankId": "672687"
+            }, {
+                "skuId": "100012957657",
+                "skuName": "萱草吉姆系列蒸汽眼罩自发热热敷贴遮光睡眠眼罩10片装（无香型）男女通用",
+                "skuImage": "https://m.360buyimg.com/img/s420x420_jfs/t1/185885/27/16070/508775/60ff66aeE785e8954/7690b31cbfb5ea7c.png.webp",
+                "skuTag": ["温润眼部", "持续发热", "呆萌可爱", "新品尝鲜"],
+                "rankName": "助眠眼罩新品榜",
+                "rankJumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/qPtWihKEDTcxtGgR9R736RZTuLB/index.html?contentId=672696&rankType=8&renderpage=rank",
+                "hasSoaringLogo": false,
+                "rankId": "672696"
+            }, {
+                "skuId": "100025181618",
+                "skuName": "水星家纺 儿童枕头0-1-2-3-6岁婴儿透气枕双层枕芯 宝宝幼儿园枕纯棉针织面料抗菌可水洗枕（婴儿蓝）",
+                "skuImage": "https://m.360buyimg.com/img/s420x420_jfs/t1/206261/14/740/201136/61138b10Edcd056c9/751062683dcb5171.png.webp",
+                "skuTag": ["纯棉针织枕套", "枕高可调节", "食品级安全", "新品尝鲜"],
+                "rankName": "舒适枕头助眠新品榜",
+                "rankJumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/qPtWihKEDTcxtGgR9R736RZTuLB/index.html?contentId=672699&rankType=8&renderpage=rank",
+                "hasSoaringLogo": false,
+                "rankId": "672699"
+            }, {
+                "skuId": "71672406078",
+                "skuName": "璇玑 菊花决明子茶牛蒡根金银花枸杞子蒲公英根袋泡茶花草茶5g*20包 菊花决明子牛蒡茶",
+                "skuImage": "https://m.360buyimg.com/img/s420x420_jfs/t1/119980/15/16919/652303/614c201fEe257485f/622d9a8fa2343b10.png.webp",
+                "skuTag": ["低温烘焙", "自动投料", "人工筛选", "新品尝鲜"],
+                "rankName": "助眠养生茶榜",
+                "rankJumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/qPtWihKEDTcxtGgR9R736RZTuLB/index.html?contentId=824855&rankType=8&renderpage=rank",
+                "hasSoaringLogo": false,
+                "rankId": "824855"
+            }, {
+                "skuId": "100022318610",
+                "skuName": "十七光年微醺果味酒 青梅口味甜酒 330ml*2礼盒装梅子酒洋酒",
+                "skuImage": "https://m.360buyimg.com/img/s420x420_jfs/t1/175361/4/13402/110660/60bd8b40E70fad96c/ad46c8e495744c4e.png.webp",
+                "skuTag": ["0添加", "果味浓", "宴会必备", "新品尝鲜"],
+                "rankName": "助眠晚安酒榜",
+                "rankJumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/qPtWihKEDTcxtGgR9R736RZTuLB/index.html?contentId=824856&rankType=8&renderpage=rank",
+                "hasSoaringLogo": false,
+                "rankId": "824856"
+            }],
+            "trendRankToast": "新品榜第一名"
+        },
+        "feedResult": {
+            "page": 1,
+            "pageSize": 20,
+            "list": [{
+                "insert": false,
+                "type": 1,
+                "saleType": 3,
+                "preCount": "",
+                "followsCount": 126,
+                "countStr": "126人已种草",
+                "onShelvesTime": "2022-01-27 17:08:17",
+                "benefits": [{
+                    "title": "上新1天",
+                    "type": 4
+                }, {
+                    "title": "欧盟ce认证",
+                    "type": 3
+                }],
+                "imageSourceType": 3,
+                "transImageUrl": "https://m.360buyimg.com/img/s690x690_jfs/t1/162253/37/26305/272106/61b6a69fE52afaafa/d8c8e026a102c3c7.png.webp!q70",
+                "liveStatus": 0,
+                "tagName": "新生活",
+                "skuId": "10040246038602",
+                "skuName": "【欧盟CE认证】俞兆林  智能电子睡眠仪器 睡眠神器 手握助眠仪 失眠神器  手握睡眠仪 升级充电款 第五代 均码",
+                "skuImg": "https://m.360buyimg.com/mobilecms/s690x690_jfs/t1/221032/19/9743/652457/61f399d4E7c449285/b82c040c9d370342.jpg.webp!q70",
+                "jdPrice": "109",
+                "cid1": "9192",
+                "cid2": "9197",
+                "cid3": "12591",
+                "skuStyle": 3,
+                "isFzxp": 1,
+                "cjxp": 0
+            }, {
+                "insert": false,
+                "type": 1,
+                "shortTitle": "欧格达小米智能人体感应灯",
+                "shortTitleType": "0",
+                "saleType": 3,
+                "preCount": "",
+                "followsCount": 4,
+                "countStr": "4人已种草",
+                "onShelvesTime": "2021-10-31 18:03:11",
+                "benefits": [{
+                    "title": "当季新品",
+                    "type": 4
+                }, {
+                    "title": "智能人体感应",
+                    "type": 3
+                }, {
+                    "title": "自由调节",
+                    "type": 3
+                }, {
+                    "title": "感应灵敏",
+                    "type": 3
+                }],
+                "liveStatus": 0,
+                "tagName": "新科技",
+                "skuId": "10039722349282",
+                "skuName": "小米（MI）同款 米家智能人体感应灯过道走廊卫生间楼梯夜间灯家用卧室无线插电小夜灯同款 黄光(人体感应/向下发光)",
+                "skuImg": "https://m.360buyimg.com/mobilecms/s690x690_jfs/t1/142590/1/21184/89032/617e4404Efe232a69/0b1fd08c27c0b1fd.jpg.webp!q70",
+                "jdPrice": "118",
+                "cid1": "652",
+                "cid2": "12345",
+                "cid3": "12353",
+                "skuStyle": 3,
+                "isFzxp": 2,
+                "cjxp": 0
+            }, {
+                "insert": false,
+                "type": 1,
+                "shortTitle": "美杜典雅白睡眠仪",
+                "shortTitleType": "0",
+                "saleType": 3,
+                "preCount": "",
+                "followsCount": 247,
+                "countStr": "247人已种草",
+                "onShelvesTime": "2021-12-02 13:44:53",
+                "benefits": [{
+                    "title": "当季新品",
+                    "type": 4
+                }, {
+                    "title": "便携快充",
+                    "type": 3
+                }, {
+                    "title": "低频电脉冲",
+                    "type": 3
+                }, {
+                    "title": "定时保护",
+                    "type": 3
+                }],
+                "imageSourceType": 3,
+                "commentBubble": ["使用舒适", "携带方便", "按摩到位", "易于操控"],
+                "transImageUrl": "https://m.360buyimg.com/img/s690x690_jfs/t1/199725/21/18785/286367/61a85724Ee4df5676/5100c224870a3353.png.webp!q70",
+                "liveStatus": 0,
+                "tagName": "新科技",
+                "skuId": "10041421019248",
+                "skuName": "美杜睡眠仪失眠睡眠神器手握按摩脉冲仪解压放松智能便携脉冲安神失绵按摩仪器家用手握助眠仪 白色球状睡眠仪【典雅白】",
+                "skuImg": "https://m.360buyimg.com/mobilecms/s690x690_jfs/t1/140423/29/25196/114412/61bc58f9Ee3cea411/512593334552403c.jpg.webp!q70",
+                "jdPrice": "58",
+                "cid1": "737",
+                "cid2": "1276",
+                "cid3": "967",
+                "skuStyle": 3,
+                "isFzxp": 1,
+                "cjxp": 0
+            }, {
+                "insert": false,
+                "type": 1,
+                "shortTitle": "构想曲小米车载无线加湿器",
+                "shortTitleType": "0",
+                "saleType": 3,
+                "preCount": "",
+                "followsCount": 6,
+                "countStr": "6人已种草",
+                "onShelvesTime": "2021-10-31 14:17:48",
+                "benefits": [{
+                    "title": "当季新品",
+                    "type": 4
+                }, {
+                    "title": "内置电池",
+                    "type": 3
+                }, {
+                    "title": "电镀工艺",
+                    "type": 3
+                }, {
+                    "title": "车载加湿",
+                    "type": 3
+                }],
+                "liveStatus": 0,
+                "tagName": "新科技",
+                "skuId": "10039622356382",
+                "skuName": "小米 京选通用车载双喷头无线加湿器大喷雾香薰雾化空气净化小型usb充电款汽车用车内24v氛围灯迷你便 白-充电款【双口喷雾】12小时续航/温馨夜灯香薰",
+                "skuImg": "https://m.360buyimg.com/mobilecms/s690x690_jfs/t1/215618/7/2254/147078/617bbb56E0df0bb71/842c507a79821c72.jpg.webp!q70",
+                "jdPrice": "136",
+                "cid1": "652",
+                "cid2": "12345",
+                "cid3": "12353",
+                "skuStyle": 3,
+                "isFzxp": 1,
+                "cjxp": 0
+            }, {
+                "insert": false,
+                "type": 1,
+                "shortTitle": "欧格达小米美式复古台灯",
+                "shortTitleType": "0",
+                "saleType": 3,
+                "preCount": "",
+                "followsCount": 0,
+                "countStr": "种草新品",
+                "onShelvesTime": "2021-10-31 18:03:27",
+                "benefits": [{
+                    "title": "当季新品",
+                    "type": 4
+                }, {
+                    "title": "玻璃灯罩",
+                    "type": 3
+                }],
+                "liveStatus": 0,
+                "tagName": "新科技",
+                "skuId": "10039726781578",
+                "skuName": "小米（MI）同款 米家民国老上海老式银行学习台灯美式复古书房书桌卧室床头灯同款 青古铜A十玻璃 十7wLED暖光灯泡 拉线开关",
+                "skuImg": "https://m.360buyimg.com/mobilecms/s690x690_jfs/t1/160585/38/23021/65595/617e501bE3b6cfb44/bc0321630f10c2bb.jpg.webp!q70",
+                "jdPrice": "248",
+                "cid1": "652",
+                "cid2": "12345",
+                "cid3": "12353",
+                "skuStyle": 3,
+                "isFzxp": 2,
+                "cjxp": 0
+            }],
+            "isNext": false,
+            "trendFeedToast": "精选人气单品",
+            "newsFilterFlag": "0"
+        }
+    },
+    "success": false
+}

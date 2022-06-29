@@ -1,0 +1,37 @@
+{
+    "code": "0",
+    "message": "响应成功",
+    "result": {
+        "headResult": {
+            "list": [{
+                "skuId": "10034722444647",
+                "skuName": "酸梅汤茶100g 茶叶花草茶 洛神花玫瑰组合型花果茶茄茶干 洛神仙子水果花茶酸梅汤养生茶凉茶 酸梅汤100g",
+                "skuImage": "https://m.360buyimg.com/img/s630x630_jfs/t1/186797/4/16063/232049/6105fd44E41d51a23/9a900a696a4d8c4c.png.webp",
+                "skuTag": ["酸甜爽口", "低温烘干", "遇水释放", "新品尝鲜"],
+                "rankName": "健康养生茶新品榜",
+                "rankJumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/qPtWihKEDTcxtGgR9R736RZTuLB/index.html?contentId=672591&rankType=8&renderpage=rank",
+                "hasSoaringLogo": false,
+                "rankId": "672591"
+            }, {
+                "skuId": "100010783110",
+                "skuName": "屈臣氏（Watsons）QII一口气白桃口香茶低卡茶饮料果味饮料推荐250mL x 15整箱装",
+                "skuImage": "https://m.360buyimg.com/img/s630x630_jfs/t1/97822/30/7377/452805/5dfa024eE47400159/ac2c298127bae9a4.png.webp",
+                "skuTag": ["0糖低卡", "清新口腔", "木糖醇+", "新品尝鲜"],
+                "rankName": "低糖新茶饮榜",
+                "rankJumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/qPtWihKEDTcxtGgR9R736RZTuLB/index.html?contentId=672586&rankType=8&renderpage=rank",
+                "hasSoaringLogo": false,
+                "rankId": "672586"
+            }],
+            "trendRankToast": "新品榜第一名"
+        },
+        "feedResult": {
+            "page": 1,
+            "pageSize": 20,
+            "list": [],
+            "isNext": false,
+            "trendFeedToast": "精选人气单品",
+            "newsFilterFlag": "0"
+        }
+    },
+    "success": false
+}
