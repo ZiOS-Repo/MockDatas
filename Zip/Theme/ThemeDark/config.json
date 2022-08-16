@@ -1,0 +1,73 @@
+{
+  "Global": {
+    "NavigationBar": {
+      "divideLineColor": "#080808",
+      "backgroundColor": "#080808",
+      "backgroundImage": "topbar_bg",
+      "title": {
+        "NSForegroundColorAttributeName": "#FFFFFF",
+        "NSFontAttributeName": 17
+      },
+      "prevImage": "topbar_back_normal",
+      "settingImage": "topbar_setting_icon",
+      "shareImage": "topbar_share_icon"
+    },
+    "TabBar": {
+      "backgroundColor": "#080808",
+      "backgroundImage": "topbar_bg",
+      "titleNormal": {
+        "NSForegroundColorAttributeName": "#FFFFFF",
+        "NSFontAttributeName": 12
+      },
+      "titleSelect": {
+        "NSForegroundColorAttributeName": "#FFFFFF",
+        "NSFontAttributeName": 12
+      }
+    },
+    "ViewController": {
+      "backgroundColor": "#4A4A4A"
+    },
+    "TableView": {
+      "cell": {
+        "backgroundColor": "#FFFFFF",
+        "titleColor": "#000000",
+        "subtitleColor": "#B3000000",
+        "separatorColor": "#F2F2F7"
+      }
+    },
+    "UISwitch": {
+      "onTintColor": "#52D869",
+      "thumbTintColor": "#FFFFFF"
+    },
+    "blankEmptyImage": "community_empty_114x117_",
+    "blankErrorImage": "community_error_116x116_"
+  },
+  "Login": {
+    "backgroundColor": "#FFFFFF"
+  },
+  "Main0": {
+    "tabImage": "cm4_btm_icn_discovery",
+    "tabSelectImage": "cm4_btm_icn_discovery_prs",
+    "title": "首页"
+  },
+  "Main1": {
+    "tabImage": "cm4_btm_icn_video",
+    "tabSelectImage": "cm4_btm_icn_video_prs",
+    "title": "分类"
+  },
+  "Main2": {
+    "tabImage": "cm4_btm_icn_music",
+    "tabSelectImage": "cm4_btm_icn_music_prs",
+    "title": "发现"
+  },
+  "Main3": {
+    "tabImage": "cm4_btm_icn_friend",
+    "tabSelectImage": "cm4_btm_icn_friend_prs",
+    "title": "购物车"
+  },
+  "Main4": {
+    "tabImage": "cm4_btm_icn_account",
+    "tabSelectImage": "cm4_btm_icn_account_prs",
+    "title": "我的"
+  }
+}
